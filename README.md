@@ -1,5 +1,5 @@
 
-# 3-Qubit Comparator
+# 3-Qubit-Comparator
 
 This repository contains code for a 3-qubit quantum comparator circuit implemented using Qiskit.
 
